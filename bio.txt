@@ -1,5 +1,6 @@
-BIO DATA
+                 BIO DATA
 
-Name-
-Class-
-Roll no.-
+Name- Ashwani Kumar Pandey
+Class- CSE 1
+Shift- Morning
+Roll no.- xyz
